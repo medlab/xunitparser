@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='xunitparserx',
-    version='1.9.10',
+    version='1.9.11',
     description='Read JUnit/XUnit/MSTest XML files and map them to Python objects',
     long_description=open('readme.rst').read(),
     install_requires=[
