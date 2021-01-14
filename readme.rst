@@ -44,6 +44,10 @@ __ http://docs.python.org/library/unittest.html
 
 Changes
 -------
++ 1.9.10+
+
+  - use github action to auto publish to pypi
+
 + 1.9.9
 
   - add fromstring support, ref:https://docs.python.org/3/library/xml.etree.elementtree.html#parsing-xml
