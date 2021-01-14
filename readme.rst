@@ -75,6 +75,12 @@ Release Workflow
 1. python setup.py sdist
 2. python -m twine upload dist/*
 
+Auto release status
+-------------------------
+
+![Publish Python 🐍 distributions 📦 to PyPI and TestPyPI](https://github.com/medlab/xunitparserx/workflows/Publish%20Python%20%F0%9F%90%8D%20distributions%20%F0%9F%93%A6%20to%20PyPI%20and%20TestPyPI/badge.svg)
+
+
 Refs:
 
 1. https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/
