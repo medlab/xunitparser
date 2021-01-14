@@ -61,9 +61,12 @@ Changes
   - Handle system-out / system-err at the testsuite level
 
 
-Development
+Development & Contribution
 =========================
 Pull request is welcome.
+
+1. dev branch is used to accept pull request and do integration
+2. main branch is used to do release, once push, a release process will happen automate
 
 Love My Software: https://www.paypal.me/medlab :)
 
@@ -76,4 +79,5 @@ Refs:
 
 1. https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/
 2. https://packaging.python.org/guides/migrating-to-pypi-org/
-
+3. https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
+4. https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
